@@ -10,7 +10,7 @@ There were moments I got stuck on the smallest things: spacing that felt off, an
 - CSS3
 
 ## Note
-This is the **design side** of the project. The buttons don't enroll anyone yet because I haven't built the backend. I'd rather be upfront about where the project stands than pretend it's finished. This is step one of a bigger journey.
+This is the **design side** of the project. The buttons don't enroll anyone yet because I haven't built the backend and it's currently **optimized for desktop screens**, Mobile responsiveness is on my to-do list. I'd rather be upfront about where the project stands than pretend it's finished. This is step one of a bigger journey.
 
 ## What's Next
 - Working enrollment and sign-in forms
